@@ -7,4 +7,6 @@ ssh_src1name = "admin1-office"
 # VM Image
 # image_publisher = "Canonical"
 # image_offer = "0001-com-ubuntu-server-jammy"
+image_offer = "ubuntu-24_04-lts"
 # image_sku = "22_04-lts-gen2"
+image_sku = "server"
