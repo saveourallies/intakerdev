@@ -6,7 +6,7 @@ To deploy to Azure using Automation, some prep work is require setup a Service A
 
 GitHub Actions drive Terraform through Azure Resource Manager.
 
-![GitHub Actions drive Terraform Automation through Azure Resource Manager]
+![GitHub Actions drive Terraform Automation through Azure Resource Manager](diagrams/structurizr-1-GitHub.png)
 
 ### Create the Terraform Service Account on Azure
 
